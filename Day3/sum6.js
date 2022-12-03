@@ -8,7 +8,7 @@
 
 function cubeAndSquare(n,m) {
     //write code here
-    console.log(n**3>m**3);
+    console.log(n**3>m**2);
 }
 
 var n =2;
